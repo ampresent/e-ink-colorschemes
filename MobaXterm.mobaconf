@@ -1,0 +1,42 @@
+[Font]
+Font2=DejaVu Sans Mono
+FontlsBold2=1
+FontHeight2=17
+FontCharset2=0
+FontQuality2=3
+Charset2=UTF-8
+LockRowsCols=0
+LockedCols=80
+LockedRows=24
+FontIsBold2=0
+
+[Colors]
+DefaultColorScheme=1
+Black=0,0,0
+BoldBlack=211,211,211
+Red=235,1,1
+BoldRed=255,43,43
+Green=200,255,200
+BoldGreen=187,198,187
+Yellow=128,128,0
+BoldYellow=233,233,14
+Blue=74,74,105
+BoldBlue=36,36,217
+Magenta=255,137,255
+Bold Magenta=248,1,248
+Cyan=0,128,128
+BoldCyan=1,240,240
+White=56,56,56
+Bold White=255,255,255
+Foreground Colour=0,0,0
+Background Colour=255,255,255
+CursorColour=128,128,255
+SyntaxType=1
+BoldMagenta=255,125,255
+BoldWhite=204,204,204
+ForegroundColour=0,0,0
+BackgroundColour=255,255,255
+
+[Cursor]
+CursorType=0
+CursorBlinks=0
