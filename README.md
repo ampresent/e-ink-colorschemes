@@ -20,7 +20,7 @@ E - ink displays, especially those with low color depth, often face chalenges in
 
 ## Supported Display Devices
 
--[x] Dasung Paperlike Color
+- [x] (Dasung Paperlike Color)
 
 ## Adding New Devices & Apps
 
