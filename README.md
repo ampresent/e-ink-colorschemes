@@ -6,11 +6,13 @@ This repository is dedicated to storing software color schemes for e - ink displ
 
 ## Purpose of Color Schemes
 
-E - ink displays, especially those with low color depth, often face chalenges in distingushing colors. The color schemes in this repository are carefully crafted to address these issues. They aim to:
+E-ink displays, especially those with low color depth, often face chalenges in distingushing colors. The color schemes in this repository are carefully crafted to address these issues. They aim to:
 
 **Enhance Color Contrast**: Make text and images more distinguishable, which is crucial for reading and viewing content.
 
 **Optimize Color Representation**: Although the number of colors is limited, the schemes try to map the available colors in a way that closely mimics the original appearance of the content.
+
+**Reduce Color Jitter**: Monitors use lazy refreshing. It tricks our brains and eyes, trading display quality for stable rates. But it fails with too many dark areas and causing color jitter.
 
 ## How to Use
 
