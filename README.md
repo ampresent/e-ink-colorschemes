@@ -1,8 +1,8 @@
-# Ink - Display Color Schemes README
+# E-Ink Color Schemes
 
 ## Introduction
 
-This repository is dedicated to storing software color schemes for e - ink displays. The main goal is to optimize the display effects on low - color - depth monitors, making the visual experience more comfortable and vivid. Additionally, we are maintaining a list of tested display devices. Currently, the only device on the list is the Dasung Paperlike Color.
+This repository is dedicated to storing software color schemes for e-ink displays. The main goal is to optimize the display effects on low-color-depth monitors, making the visual experience more comfortable and vivid. Additionally, we are maintaining a list of tested display devices. Currently, the only device on the list is the Dasung Paperlike Color.
 
 ## Purpose of Color Schemes
 
@@ -18,7 +18,7 @@ E-ink displays, especially those with low color depth, often face chalenges in d
 
 **Download the Color Scheme Files**: Clone this repository to your local machine using `git clone https://github.com/ampresent/e-ink-colorschemes`.
 
-**Apply the Color Scheme**: The specific method of applying the color scheme depends on the software you are using on your e - ink display. For example, if you are using a custom reader software, there may be an option to load a color configuration file. Locate the appropriate color scheme file (usually in a format like `.json` or `.xml` depending on the software's requirements) in the repository and select it in the software's settings.
+**Apply the Color Scheme**: The specific method of applying the color scheme depends on the software you are using on your e-ink display. For example, if you are using a custom reader software, there may be an option to load a color configuration file. Locate the appropriate color scheme file (usually in a format like `.json` or `.xml` depending on the software's requirements) in the repository and select it in the software's settings.
 
 ## Supported Display Devices
 
@@ -26,7 +26,7 @@ E-ink displays, especially those with low color depth, often face chalenges in d
 
 ## Adding New Devices & Apps
 
-If you have tested these color schemes on a different e - ink display device or have a new device that you want to test, please contribute to this repository by following these steps:
+If you have tested these color schemes on a different e-ink display device or have a new device that you want to test, please contribute to this repository by following these steps:
 
 **Create a New Device Entry**: In the `devices.md` file (or create it if it doesn't exist), add a new section for your device. Include details such as the device model, manufacturer, resolution, color depth, and any unique features.
 
